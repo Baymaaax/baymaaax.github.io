@@ -4,4 +4,4 @@
 
 ## 
 
-<img src="../img/集合.png" alt="集合"  />
+<img src="../img/集合.png" />
